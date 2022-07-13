@@ -27,6 +27,8 @@
         
     
 ### Admin
+
+• Register the reader.
   
 • Only the admin must be able to provide the information related to the library.
 
