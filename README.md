@@ -48,7 +48,7 @@
 
 • Admin must check if the book is available or not before issuing.
 
-• The admin must know the number of shelves in the library.
+• The admin must know the information of shelves in the library.
 
 • Admin can be able to remove a reader from the database.
 
@@ -56,6 +56,8 @@
 ### Reader
 
  • Reader can be search for a book.
+ 
+ • Can be ask for a book.
  
  • Reader must have a knowledge about books, have been read.
  
